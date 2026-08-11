@@ -23,14 +23,7 @@ GitSkins stat widgets will use the **Satan** theme.
     <img src="https://www.gitskins.com/api/section/stats?username=yash-jambhulkar06&theme=satan" alt="yash-jambhulkar06 stats section" />
   </picture>
 </p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=yash-jambhulkar06&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=yash-jambhulkar06&theme=satan" alt="yash-jambhulkar06 projects section" />
-  </picture>
-</p>
+
 ## Connect
 Contact and social links will appear here.
 <p align="center">
