@@ -1,36 +1,25 @@
-# yash-jambhulkar06
-
-> Memorable developer positioning.
-
-**Theme:** Satan · **Style:** Creative · **Agent:** Full-Stack Engineer
-
-## Header
-> Editing this section in the inspector.
-Hi, I'm **yash-jambhulkar06**. This README is tuned for **personal brand** with a Satan visual system.
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yash-jambhulkar06&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=yash-jambhulkar06&theme=satan" alt="yash-jambhulkar06 hero section" />
-  </picture>
-</p>
-## Heatmap
-Animated year-long contribution calendar.
-## GitHub Stats
-GitSkins stat widgets will use the **Satan** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yash-jambhulkar06&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=yash-jambhulkar06&theme=satan" alt="yash-jambhulkar06 stats section" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=yash-jambhulkar06&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=yash-jambhulkar06&theme=github-dark" alt="Yash Jambhulkar profile hero" /></picture>
 </p>
 
-## Connect
-Contact and social links will appear here.
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yash-jambhulkar06&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=yash-jambhulkar06&theme=satan" alt="yash-jambhulkar06 social section" />
-  </picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=yash-jambhulkar06&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=yash-jambhulkar06&theme=github-dark" alt="About Yash Jambhulkar" /></picture>
 </p>
 
-<!-- Sections: Header, Heatmap, GitHub Stats, Projects, Connect -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yash-jambhulkar06&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=yash-jambhulkar06&theme=github-dark" alt="GitHub Stats" /></picture>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yash-jambhulkar06&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=yash-jambhulkar06&theme=github-dark" alt="yash-jambhulkar06 social links" /></picture>
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-jambhulkar06)
+
+---
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
