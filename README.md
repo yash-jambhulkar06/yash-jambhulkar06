@@ -1,117 +1,164 @@
-# Hi, I'm Yash Jambhulkar 👋
+# YASH JAMBHULKAR
 
-### Full Stack Python Developer | Student at Government Polytechnic Sakoli
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Yash%20Jambhulkar&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=FULL%20STACK%20PYTHON%20DEVELOPER&descAlignY=70&descSize=16" width="100%" alt="Yash Jambhulkar developer banner"/>
+</p>
 
-I’m a passionate developer who enjoys building practical, user-focused applications and learning new technologies. I work primarily with Python and Django, along with frontend technologies and databases, to turn ideas into working projects.
+<p align="center">
+  <a href="https://github.com/yash-jambhulkar06">
+    <img src="https://img.shields.io/badge/GitHub-yash--jambhulkar06-111827?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:jambhulkarn6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 🔭 **Currently working on:** Full-stack web applications
-- 🌱 **Learning:** Advanced Django, backend development, and application deployment
-- 💡 **Interested in:** Web development, AI-powered applications, and solving real-world problems
-- 🎯 **Goal:** Build useful applications and continuously improve my development skills
-- 📍 **Education:** Government Polytechnic Sakoli
+<p align="center">
+  <i>Building practical applications. Exploring AI. Learning by creating.</i>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
+I'm a Full Stack Python Developer and student at **Government Polytechnic Sakoli**. I enjoy turning ideas into useful web applications, developing backend systems, and exploring AI-powered solutions.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+```python
+class Developer:
+    name = "Yash Jambhulkar"
+    role = "Full Stack Python Developer"
+    education = "Government Polytechnic Sakoli"
+    languages = ["Python", "C", "JavaScript"]
+    backend = ["Django"]
+    frontend = ["HTML", "CSS", "JavaScript"]
+    database = ["MySQL"]
+    interests = ["Web Development", "AI", "Problem Solving"]
 
-**Frontend**
+    def goal(self):
+        return "Build useful applications and never stop learning."
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-**Backend & Database**
+## ⚡ Technologies & Tools
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,django,mysql,git,github,vscode,vercel,netlify&perline=6" alt="Technology stack"/>
+</p>
 
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Dona.Com — Free Food Discovery Platform
-A community-driven platform designed to help people discover free food opportunities and share information about food distribution events.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 📍 Discover free food locations and events.
-- 🤝 Allow users to share useful food-related information.
-- 🌍 Encourage community participation and reduce food waste.
+### 🍽️ Free Foos
 
-**Technologies:** Python, Django, HTML, CSS, JavaScript, and database technologies.
+**Free Food Discovery Platform**
 
-### 2. Room Buddies — Accommodation & Services Platform
-A platform concept that connects users with accommodation options and essential services.
+A community-driven platform for discovering and sharing free food opportunities.
 
-- 🏠 Explore rooms and accommodation options.
-- 🧺 Discover services such as laundry, tiffin, and water cans.
-- 👥 Support users, service providers, and administrators.
+- 📍 Discover food locations and events
+- 🤝 Share food distribution information
+- 🌍 Connect people with available free food
 
-**Technologies:** Python, Django, HTML, CSS, JavaScript, and database technologies.
+**Built with:** Python · Django · HTML · CSS · JavaScript
 
-### 3. Resume AI — AI-Powered Resume Project
-An AI-focused project intended to make resume creation and improvement easier for users.
+</td>
+<td width="50%" valign="top">
 
-- 📄 Focus on resume creation and improvement.
-- 🤖 Explore practical applications of artificial intelligence.
-- 💼 Help users present their skills and experience effectively.
+### 🤖 Resume AI
 
-**Technologies:** Add the specific framework, AI service, and database used in your implementation.
+**AI-Powered Resume Analyzer**
+
+An application focused on analyzing resumes and helping users identify potential improvements.
+
+- 📄 Resume content analysis
+- 🔍 Identify strengths and improvement areas
+- 🎯 Improve presentation of skills and experience
+
+**Technology:** To be completed with the actual project stack.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏠 Room Buddies
+
+**Accommodation & Essential Services Platform**
+
+A platform connecting users with room listings and everyday services.
+
+- 🛏️ Accommodation discovery
+- 🧺 Laundry, tiffin, and water-can services
+- 👥 Separate user, provider, and administrator roles
+
+**Built with:** Python · Django · HTML · CSS · JavaScript
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-jambhulkar06&show_icons=true&hide_border=true&theme=default)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash-jambhulkar06&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-jambhulkar06&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Top languages"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-jambhulkar06&layout=compact&hide_border=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yash-jambhulkar06&theme=default&hide_border=true)
-
----
-
-## 🏆 Achievements & Certifications
-
-- 💻 Building practical full-stack development projects.
-- 🐍 Developing skills in Python and Django.
-- 🚀 Exploring deployment platforms and web application hosting.
-- 📚 Continuously learning new development tools and technologies.
-
-*Certifications, awards, and verified achievements can be added here as you earn them.*
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=yash-jambhulkar06&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak"/>
+</p>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 What I'm Working Toward
 
-- Strengthen my Python and Django expertise.
-- Improve database design and backend architecture.
-- Build responsive, reliable, and user-friendly applications.
-- Learn more about AI integration and application security.
-- Contribute to open-source projects and collaborate with other developers.
+- Strengthening Python and Django development skills
+- Building better backend systems and database-driven applications
+- Exploring practical AI integrations
+- Improving application security and deployment practices
+- Creating software that solves real-world problems
+
+---
+
+## 🏆 Achievements & Learning
+
+- 💻 Developing real-world full-stack projects
+- 🐍 Building with Python and Django
+- 🚀 Learning web application deployment
+- 🤖 Exploring AI-powered applications
+- 📚 Continuously expanding technical knowledge
+
+*Certifications and verified achievements will be added as they are earned.*
 
 ---
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-yash--jambhulkar06-181717?style=for-the-badge&logo=github)](https://github.com/yash-jambhulkar06)
+<p align="center">
+  <a href="https://github.com/yash-jambhulkar06">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:jambhulkarn6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jambhulkarn6@gmail.com)
+<p align="center">
+  <b>Thanks for visiting my profile!</b><br/>
+  <i>Keep building. Keep learning. Keep improving.</i>
+</p>
 
-📧 **Email:** [jambhulkarn6@gmail.com](mailto:jambhulkarn6@gmail.com)
-
----
-
-*“Build useful things, keep learning, and improve with every project.”*
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,100:1D4ED8" width="100%" alt="Footer banner"/>
+</p>
