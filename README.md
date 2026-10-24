@@ -58,7 +58,7 @@ class Developer:
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ Free Foos
+### 🍽️ Free Food
 
 **Free Food Discovery Platform**
 
